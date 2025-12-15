@@ -252,6 +252,6 @@ export const skills = [
   "GitHub",
   "Analyseurs syntaxiques",
   "Java",
-  "Maven",
+  "Unreal Engine",
   "Algorithmes",
 ];
