@@ -41,7 +41,7 @@ after:absolute after:inset-0 after:w-[0.125em] after:animate-caret after:bg-whit
           </p>
 
           <p className="max-w-4xl text-center justify-center text-white xl:text-xl md:text-lg sm:text-sm text-md">
-         Développeur en herbe avec une Licence 3 en Informatique, je suis animé par la curiosité et la passion du code.
+         Développeur en herbe avec une Licence 3 en Informatique, animé par la curiosité, je n'hésite pas à m'autoformer sur mon temps libre.
          J’aime transformer des idées en solutions concrètes et collaborer sur des projets innovants qui repoussent les limites de la technologie.
           </p>
         </div>
