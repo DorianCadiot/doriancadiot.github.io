@@ -147,7 +147,7 @@ export const myProjects = [
     desc: "Développement de mon portfolio via github pages et ReactJS. ",
     subdesc:
       "Cela m'as permis de découvrir github pages, ReactJS ainsi que WebGL afin d'insérer mes projets.",
-    href: "https://github.com/DorianCadiot/portfolio-alternance",
+    href: "https://github.com/DorianCadiot/doriancadiot.github.io/",
     logo: "projects/Capture-portfolio.png",
     logoStyle: {
       backgroundColor: "#2A1816",
